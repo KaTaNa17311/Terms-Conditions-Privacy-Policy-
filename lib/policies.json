@@ -1,0 +1,530 @@
+{
+  "terms": {
+    "title": "Terms of Service",
+    "version": "1ef80c185dbc351eb587cdd5d12f48488a27be20ba5e948a6f16d42d130635c2",
+    "filename": "AdvoHQ_Terms_of_Service_Revised.docx",
+    "blocks": [
+      {
+        "text": "AdvoHQ Terms of Service",
+        "style": "Title"
+      },
+      {
+        "text": "Effective date: 27 May 2026. Provider: Advohq Technologies Pvt. Ltd., CIN U62099KA2026PTC221652, #2404, 8th Main Road, 22nd Cross Road, BSK Stage 2, Bengaluru - 560070. Contact: team@advohq.in.",
+        "style": ""
+      },
+      {
+        "text": "These Terms govern the AdvoHQ legal workspace and contract management services. Please read the Order and Privacy Policy with them. The numbered clauses below are intended to become the public terms after the publication checks at the end are resolved.",
+        "style": ""
+      },
+      {
+        "text": "1. Definitions",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ, we, us means Advohq Technologies Pvt. Ltd. Customer means the person or organisation that opens a workspace or buys a plan. If an individual opens an account for personal professional use, that individual is the Customer. User means a natural person whom the Customer permits to use a workspace. Administrator means a User with authority to manage that workspace's accounts, settings, permissions or billing. Services means the AdvoHQ websites, applications, APIs and subscribed features identified in an Order. Order means a checkout confirmation or signed order stating the selected plan, quantity, price, term and any special terms.",
+        "style": ""
+      },
+      {
+        "text": "Customer Content means documents, files, case or contract records, prompts, instructions, comments, signatures, matter details and other material submitted to or created in a Customer workspace, including AI Outputs. Input means material submitted to an AI Feature. Output means a draft, answer, summary, classification, translation or other result produced from an Input. AI Feature means a feature using a machine learning model, including generation, research assistance, clause analysis or risk summaries. Usage Data means technical records about use, such as login events, feature events, timestamps, device data, consumption counters and diagnostics; it excludes the substance of Customer Content unless expressly stated.",
+        "style": ""
+      },
+      {
+        "text": "Subscription Term means the paid period shown in the Order and each permitted renewal. Third-Party Service means a service operated by another provider and integrated with or linked from AdvoHQ, such as payments, electronic signatures, cloud hosting or AI inference. Applicable Law means law binding on the relevant party and activity. DPA means a data processing agreement signed by the parties. Confidential Information means non-public information disclosed in connection with the Services that is marked confidential or should reasonably be understood as confidential; Customer Content is Customer Confidential Information.",
+        "style": ""
+      },
+      {
+        "text": "2. Agreement, authority and order of precedence",
+        "style": "Heading1"
+      },
+      {
+        "text": "An individual accepts these Terms by clicking acceptance, placing an Order, signing an agreement or using the Services after seeing them. A person accepting for an organisation represents that they have authority to bind it. The Customer is responsible for its Users' compliance with these Terms and for their acts within the workspace, except to the extent caused by AdvoHQ's own breach. A User may also be personally responsible for unlawful use.",
+        "style": ""
+      },
+      {
+        "text": "If the parties sign a negotiated master agreement, it controls conflicting provisions in these Terms. A signed DPA controls the processing of Customer Content to the extent of conflict on that subject. An Order controls the selected features, quantities, price and Subscription Term; these Terms control other matters unless the Order expressly says otherwise. A Privacy Policy explains our practices but does not silently expand the licence to Customer Content. Terms of a Third-Party Service apply to the Customer's separate relationship with that provider when disclosed at the point of use.",
+        "style": ""
+      },
+      {
+        "text": "3. What AdvoHQ supplies",
+        "style": "Heading1"
+      },
+      {
+        "text": "Depending on the Order, the Services can include document storage and search, case or contract workspaces, OCR, translation, AI drafting and analysis, research assistance, templates, notes, page linking, annexures and print tools, invoices, calendars and reminders, electronic signature requests, contract approvals and comparison, risk summaries, repository tools, audit logs, role permissions and single sign-on. A feature is included only when the Order or in-product plan description says so. The displayed lawyer plans are Solo, Professional and Chambers; the displayed business plans are Business, Business Pro and Enterprise. The Order determines actual entitlements.",
+        "style": ""
+      },
+      {
+        "text": "AdvoHQ may improve or replace features and perform maintenance. We will not materially reduce a paid feature during its committed term without a reasonable substitute, a lawful reason, or the affected Customer's contractual remedy. A roadmap, beta label or demonstration does not commit us to a release date. Beta features may have separate written terms and should not be used as the sole record of a critical matter. We will identify any applicable support or availability commitment in an Order; no numerical uptime promise arises from these Terms alone.",
+        "style": ""
+      },
+      {
+        "text": "4. Plans, use limits and permitted access",
+        "style": "Heading1"
+      },
+      {
+        "text": "The Order must show the price, billing cycle, permitted Users, storage allowance, AI or document credits, signature allotment and other measured limits before payment. A counted operation is measured as the Order explains; AdvoHQ must state whether unsuccessful submissions consume credits. Unused monthly credits expire at the end of the stated monthly period unless the Order says they roll over. Storage measures files, versions, generated documents and derived material as explained at checkout. We may use reasonable rate limits to maintain service, but will not introduce an undisclosed paid overage. We will show the amount or calculation and obtain required authorisation before charging for an overage or upgrade.",
+        "style": ""
+      },
+      {
+        "text": "Each User needs their own account. Login sharing, resale and use beyond an Order's scope require our written permission. Enterprise commitments such as data residency, dedicated capacity, service levels, security audits or special support apply only when stated in a signed Order. Customer must check whether payment, messaging, e-signature or other third-party charges are included; any separate charge must be disclosed before the relevant transaction.",
+        "style": ""
+      },
+      {
+        "text": "5. Accounts, administrators and workspace permissions",
+        "style": "Heading1"
+      },
+      {
+        "text": "The Customer appoints Administrators and determines which Users and external collaborators can see each matter, document and workflow. An Administrator can generally invite or remove Users, change permissions, reset access, inspect activity, export data and request workspace deletion, subject to the product's controls. Customer should review permissions before uploading privileged or sensitive files and remove access promptly when a role ends. We may rely on an Administrator's apparent authority unless notified of a specific dispute and given a workable instruction under the agreement or law.",
+        "style": ""
+      },
+      {
+        "text": "Customer and Users must give accurate account details, protect credentials and devices, use available security controls and notify team@advohq.in promptly of suspected unauthorised access. AdvoHQ remains responsible for its own security duties. Users must be at least 18 and legally capable of using the Services. Customer must not give a child a User account. We may verify identity or authority where reasonably necessary for security, payment or law.",
+        "style": ""
+      },
+      {
+        "text": "6. Ownership, licence and confidentiality of Customer Content",
+        "style": "Heading1"
+      },
+      {
+        "text": "Customer and its licensors retain their rights in Customer Content. Customer grants AdvoHQ and its contracted providers a non-exclusive, limited licence during the applicable processing period to host, copy, transmit, index, extract text, transform, display, back up and otherwise process Customer Content solely to supply enabled Services, provide requested support, secure the system, comply with law and carry out documented Customer instructions. This licence does not let us publish case files, sell them, target advertising with them or train a general-purpose AI model from them without a separate explicit opt-in. The Customer is responsible for obtaining the rights and permissions necessary to give this licence.",
+        "style": ""
+      },
+      {
+        "text": "Each party will protect the other's Confidential Information with reasonable care, use it only for the agreement, and disclose it only to personnel, advisers and providers who need it and are bound to protect it. The duty does not cover information independently developed, lawfully received without restriction, publicly available without breach, or already known without restriction. A party compelled by law to disclose Confidential Information will, where lawful and practicable, give prompt notice and disclose only what is required. These duties continue for three years after termination; duties over trade secrets and Customer Content continue while the material remains protected by law or in AdvoHQ's possession. A signed DPA may impose stronger duties.",
+        "style": ""
+      },
+      {
+        "text": "We may inspect Customer Content only to perform an enabled feature, provide support requested by the Customer, investigate an actual security or abuse concern, or respond to lawful process. Access should be limited to authorised personnel and logged where the product architecture permits. [VERIFY SUPPORT ACCESS, LOGGING AND EMERGENCY ACCESS PRACTICE BEFORE PUBLICATION.]",
+        "style": ""
+      },
+      {
+        "text": "7. Customer's professional and legal duties",
+        "style": "Heading1"
+      },
+      {
+        "text": "Customer decides what to upload, the purpose of a matter, who may view it, whether a client has been informed, and when to export or delete it. Customer must have the lawful authority to process and disclose personal, privileged, confidential, copyrighted or regulated material. A lawyer or firm remains responsible for professional secrecy, conflicts, client instructions, supervision, retention of the official file, filings and deadlines. A business remains responsible for its contract approval and execution decisions. Customer must not upload material if use of the selected AI, hosting or sharing configuration would violate a binding duty; it can seek an enterprise configuration where offered.",
+        "style": ""
+      },
+      {
+        "text": "The Services do not create an advocate-client relationship between AdvoHQ and any person. AdvoHQ does not act as counsel, represent a party, decide legal strategy, file court papers or certify a document's legal effect. We remain responsible for the service commitments and legal duties that do apply to us.",
+        "style": ""
+      },
+      {
+        "text": "8. AI, research, OCR and translations",
+        "style": "Heading1"
+      },
+      {
+        "text": "An AI Feature processes the Input needed to produce its Output and may transmit it to contracted model or infrastructure providers described in the Privacy Policy and processor schedule. Proposed default for publication: Customer Content is not used to train general-purpose models by AdvoHQ or its AI providers unless the Customer separately opts in. AdvoHQ must confirm provider settings, retention and contractual restrictions before this promise is published. Customer can choose whether to use optional AI functions, subject to any feature design stated in the Order.",
+        "style": ""
+      },
+      {
+        "text": "Outputs can omit facts, invent quotations or citations, misread scans, mistranslate terms, apply an outdated rule, miscalculate a date or amount, or give a misleading risk score. A citation or link is a lead for checking the source, not a verification certificate. The Customer must review the underlying document and current primary law, confirm jurisdiction and procedural posture, check calculations and references, and have a qualified person approve any advice, filing, contract, notice or client communication. Suit valuation, deadlines and reminders are aids; the Customer must check the applicable court rules and maintain an independent docket for critical deadlines.",
+        "style": ""
+      },
+      {
+        "text": "Customer may use Outputs in its lawful work, subject to third-party rights. An Output may be similar to an output supplied to someone else; we do not promise exclusivity, originality, privilege, admissibility, enforceability, legal compliance or a particular outcome. The Customer must review OCR text against the source image, especially names, dates, figures and signatures. Machine translation needs human review where meaning matters. Third-party source material may have its own licence or usage limits.",
+        "style": ""
+      },
+      {
+        "text": "9. Sharing, collaboration and electronic signatures",
+        "style": "Heading1"
+      },
+      {
+        "text": "When a User invites a collaborator, sends a document or creates a share link, the Customer authorises disclosure to the selected recipient and is responsible for the address, permission level, link expiry and subsequent revocation. A recipient may download or copy material if the enabled permission allows it; revoking access will not erase a copy already lawfully received. Comments, version history and audit entries may remain available to other authorised Users after a User leaves, subject to retention settings and law.",
+        "style": ""
+      },
+      {
+        "text": "For a signature request, the sender must verify the final document, recipient address, signer identity and authority, consent to electronic execution, signing sequence and any stamp, witness, notary, registration or filing requirement. A typed or drawn mark is not automatically a legally recognised digital signature for every document. The provider and method used for a particular request will be identified in the flow; its separate terms may apply. AdvoHQ may preserve evidence such as timestamps, addresses, authentication events and document hashes for the retention period disclosed in the Privacy Policy. We do not guarantee that a court, registry, bank or counterparty will accept a particular execution method.",
+        "style": ""
+      },
+      {
+        "text": "10. Integrations and external material",
+        "style": "Heading1"
+      },
+      {
+        "text": "Customer authorises transmission of the data necessary for an integration it enables. An integration may require a separate account and terms. We are responsible for our own selection, instructions and contractual duties concerning processors we engage; we do not control an independent service's separate decisions or public source's accuracy. If an integration is withdrawn or materially changed, we will use reasonable efforts to notify affected Customers and provide an available export or alternative where practicable. Customer must check third-party notices before enabling a feature that sends confidential files outside the workspace.",
+        "style": ""
+      },
+      {
+        "text": "11. Fees, taxes, renewal and cancellation",
+        "style": "Heading1"
+      },
+      {
+        "text": "The Order states the price, currency, taxes, payment schedule and whether renewal is automatic. Unless the Order says otherwise, fees are due in advance and applicable GST is additional. We will not charge for automatic renewal unless the Customer affirmatively accepts the recurring arrangement and sees the renewal frequency, charge or calculation and cancellation route. We will give a reminder where required by law. A renewal begins on the date shown at checkout or in the Order; plan or price changes apply at a later renewal after advance notice, subject to a fixed-price commitment.",
+        "style": ""
+      },
+      {
+        "text": "Customer can cancel future renewal in account settings or by writing to team@advohq.in from an authorised address. We will acknowledge the request and state its effective date. Cancellation stops the next renewal; ordinary access continues to the end of the paid term. A cancellation does not reverse charges already due. Except where law, an Order, an express service remedy or our error requires otherwise, fees for a started term are not refundable. A free trial converts to a paid plan only after a separate purchase or an expressly accepted trial conversion with disclosed timing and price. A failed payment may lead to a reminder and, after a reasonable cure opportunity, limited suspension. Customer remains responsible for applicable taxes and lawful chargebacks.",
+        "style": ""
+      },
+      {
+        "text": "12. Acceptable use",
+        "style": "Heading1"
+      },
+      {
+        "text": "Customer and Users must not: (a) upload unlawful material or material they lack authority to process; (b) infringe another's rights or breach a professional duty; (c) impersonate a person or forge a signature; (d) use the Services to harass, defraud or distribute malware; (e) probe, disrupt, overload or bypass security or usage controls; (f) scrape, copy, reverse engineer or build a competing service from the platform except as law permits; (g) resell access without written permission; or (h) represent an unverified AI answer as a checked legal authority. We may investigate a credible report, preserve evidence and remove or restrict the affected content or function to the extent reasonably necessary. We will give notice where feasible and lawful and allow cure for a remediable breach.",
+        "style": ""
+      },
+      {
+        "text": "13. Platform intellectual property and feedback",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ and its licensors own the software, interfaces, documentation, branding and generic templates, excluding Customer Content. During the Subscription Term we give Customer a limited, non-exclusive, non-transferable right to use the subscribed Services for its internal lawful work. No source-code or trademark licence is granted. A template is a starting point requiring matter-specific review. If Customer volunteers feedback, it grants us a perpetual, worldwide, royalty-free licence to use that feedback to improve our products; it should omit client secrets and does not grant a licence to the underlying Customer Content.",
+        "style": ""
+      },
+      {
+        "text": "14. Security, incidents and availability",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ will implement reasonable technical and organisational safeguards required by Applicable Law and any signed DPA, including measures for access control, protection of data in transit and storage, logging, backups, monitoring and provider management as applicable to the system. Specific certifications, encryption designs, recovery objectives and data residency apply only if accurately stated in a signed schedule. No online system is perfectly secure or always available. This qualification does not reduce mandatory security, incident reporting or remediation duties.",
+        "style": ""
+      },
+      {
+        "text": "Customer must report a suspected account compromise to team@advohq.in promptly and cooperate in reasonable containment steps. We will investigate incidents, inform affected Customers and authorities where law or the DPA requires, and provide the information reasonably needed for the Customer's own lawful notices. We may temporarily interrupt service for maintenance, security or supplier failure and will work to restore it. Customer should export critical files and maintain its official matter record; that allocation does not excuse AdvoHQ's agreed backup or security duties.",
+        "style": ""
+      },
+      {
+        "text": "15. Export, retention and deletion",
+        "style": "Heading1"
+      },
+      {
+        "text": "Customer can export supported content through [EXACT EXPORT PATH AND FORMATS] while the account is active. Proposed ordinary exit process, subject to implementation verification: after expiration or cancellation, the Administrator has 30 days of read-only export access; AdvoHQ then removes Customer Content from active workspaces within 30 additional days and lets routine backups expire within 90 additional days. A restricted compliance archive may retain the personal data and related processing records for a one-year minimum where the operative DPDP Rules require it; legal holds, security evidence, accounting rules, a signed DPA or other Applicable Law can require longer retention. Archived material is not available for ordinary product use. We will tell Customer when export is unavailable for a justified security or legal reason and provide a reasonable alternative if lawful and feasible. Deletion from AdvoHQ does not recall copies already sent to signers or downloaded by others.",
+        "style": ""
+      },
+      {
+        "text": "The Privacy Policy gives category-specific retention details. If actual product capabilities or processor backup cycles differ, the proposed periods above must be replaced before publication. A deletion request from one User does not necessarily delete the organisation's workspace; the Customer controls the underlying file, subject to data subject rights and law.",
+        "style": ""
+      },
+      {
+        "text": "16. Suspension and termination",
+        "style": "Heading1"
+      },
+      {
+        "text": "Either party can terminate a paid Order for the other's material breach if it is not cured within 30 days after written notice; an incurable material breach may justify immediate termination. We may suspend the affected account or feature immediately if reasonably needed to contain a security incident, stop unlawful use, comply with law or prevent material harm. For non-payment, we will ordinarily give notice and a reasonable opportunity to pay first. We will narrow the suspension where practicable, explain it when lawful and restore access after the reason ends. Repeated serious abuse may justify termination.",
+        "style": ""
+      },
+      {
+        "text": "On termination, access rights end after the applicable export window; accrued fees remain due. Clauses on ownership, confidentiality, permitted retention, disclaimers, liability, indemnity, disputes and other provisions that by nature need to continue survive. We will not hold Customer Content indefinitely as leverage for a disputed invoice; legal rights to withhold service do not erase statutory data duties.",
+        "style": ""
+      },
+      {
+        "text": "17. Service warranty and limits of reliance",
+        "style": "Heading1"
+      },
+      {
+        "text": "Each party represents that it can enter this agreement. During a paid term AdvoHQ warrants that the paid Services will materially match their published functional description. If Customer reports a reproducible material failure, we will use reasonable efforts to correct it. If we cannot do so within a reasonable time, Customer may terminate the affected Service and receive a proportionate refund for its prepaid unused period. This remedy does not limit non-waivable rights.",
+        "style": ""
+      },
+      {
+        "text": "Except for express promises and obligations imposed by law, the Services and Outputs are provided without a warranty of continuous availability, error-free operation, accuracy, originality, legal validity, fitness for a particular matter or outcome. We do not warrant that a document will be accepted for court filing, registration, stamp purposes or execution. Customer's review duties in clause 8 remain important even when an Output looks confident.",
+        "style": ""
+      },
+      {
+        "text": "18. Liability and indemnities",
+        "style": "Heading1"
+      },
+      {
+        "text": "To the extent Applicable Law permits, neither party is liable to the other for indirect or consequential loss or lost profit, revenue or opportunity arising from this agreement. Direct and reasonably foreseeable costs of restoring data, responding to an incident or obtaining substitute service are not automatically excluded merely because they relate to data. Neither exclusion applies where law prohibits it.",
+        "style": ""
+      },
+      {
+        "text": "AdvoHQ's aggregate contractual liability for an event and related events is capped at the fees paid or payable for the affected Service during the 12 months before the first event; for a free service the cap is INR 10,000. This cap does not apply to fraud, wilful misconduct, or liability that cannot legally be limited. A signed enterprise Order can set a different cap for confidentiality, security, personal-data and intellectual-property claims. The cap does not override statutory penalties or a regulator's powers.",
+        "style": ""
+      },
+      {
+        "text": "Customer will defend and indemnify AdvoHQ against a third-party claim arising from Customer Content, lack of rights or authority to submit it, or the Customer's unlawful use or material breach, except to the extent AdvoHQ caused the claim through its own breach or unlawful act. AdvoHQ will defend a third-party claim that the unmodified paid platform infringes an Indian intellectual-property right; it may procure continued use, modify the feature or terminate it with a proportionate refund. This obligation excludes Customer Content, unauthorised modifications and combinations not supplied by us. The indemnified party must give prompt notice, reasonable cooperation and control of defence to the indemnifying party, subject to consent before a settlement admits fault or imposes a non-monetary duty on it.",
+        "style": ""
+      },
+      {
+        "text": "19. Changes and notices",
+        "style": "Heading1"
+      },
+      {
+        "text": "We may change these Terms for law, security or service development. We will post a dated version and give advance notice of a material adverse change affecting an existing paid term. If the change requires consent, we will request it; where law or the Order gives a cancellation right, we will explain it. Continued use counts as acceptance only where a valid acceptance mechanism and Applicable Law permit. Notices to Customer go to its Administrator's registered email or in-product notice where appropriate. Legal notices to AdvoHQ go to team@advohq.in, Advohq Technologies Pvt. Ltd., #2404, 8th Main Road, 22nd Cross Road, BSK Stage 2, Bengaluru - 560070. Customer must keep its contact current.",
+        "style": ""
+      },
+      {
+        "text": "20. Disputes and general terms",
+        "style": "Heading1"
+      },
+      {
+        "text": "Indian law governs. The parties will attempt to resolve a dispute in good faith within 30 days of written notice. Subject to statutory and consumer remedies that cannot be waived, contractual disputes will be referred to one arbitrator jointly appointed under the Arbitration and Conciliation Act, 1996. The seat is Bengaluru, the language English, and courts at Bengaluru have jurisdiction for court assistance and interim measures. If the parties cannot agree on the arbitrator, the Act's appointment process applies. A consumer may use a competent statutory forum where the law permits.",
+        "style": ""
+      },
+      {
+        "text": "Neither party may assign the agreement without the other's consent, not unreasonably withheld; AdvoHQ may assign it as part of a genuine reorganisation or sale if the successor assumes the duties and continues the protection of Customer Content. Neither party is liable for delay caused by events beyond reasonable control, except accrued payment, and must mitigate and notify the other. Invalid language is severed to the minimum extent necessary. A waiver must be express. The agreement creates no partnership, employment or agency. These Terms, the Order and signed schedules are the entire agreement on the Services, subject to the precedence in clause 2.",
+        "style": ""
+      },
+      {
+        "text": "Internal publication checklist — remove before posting",
+        "style": "Heading1"
+      },
+      {
+        "text": "Verify legal entity, CIN, office and functioning legal, privacy, security and billing contacts. Verify every plan quantity and the checkout price/renewal disclosure.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Verify export formats/path, post-termination access, active deletion, backup expiry and legal holds. Implement the proposed periods or replace them consistently in both policies.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Confirm model providers, zero-training contract/settings, provider retention, support access, security controls, incident response, signing method and all subprocessors. Sign a DPA and enterprise security schedule where offered.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Confirm arbitration, refund, tax, consumer and professional conduct language with Indian counsel; publish a separate DPDP itemised notice when its relevant provisions become operative.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Drafting references — remove before posting",
+        "style": "Heading1"
+      },
+      {
+        "text": "Original drafting informed by the uploaded Garner and Goldstein/Lieberman books and the official OpenAI Terms, Google Cloud Platform Terms, Hinge Terms and Netflix Terms, checked 9 October 2026. Their wording is not incorporated by reference. See the companion source memo for links and legal commencement dates.",
+        "style": ""
+      }
+    ],
+    "sourceVersion": "4125fdf5396193a240b13a6c815b272c52b445534e11fa97ea63934258df7650"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "version": "bbba82025e1493b0af581a74469c9d9cb0ff32022e9d24273d593b51890c3551",
+    "filename": "AdvoHQ_Privacy_Policy_Revised.docx",
+    "blocks": [
+      {
+        "text": "AdvoHQ Privacy Policy",
+        "style": "Title"
+      },
+      {
+        "text": "Effective date: 27 May 2026. Data contact: team@advohq.in, Advohq Technologies Pvt. Ltd., #2404, 8th Main Road, 22nd Cross Road, BSK Stage 2, Bengaluru - 560070.",
+        "style": ""
+      },
+      {
+        "text": "This Policy explains the personal data AdvoHQ collects through its websites, accounts, document workspaces and contract workflows, the purposes of processing, recipients, retention, and choices. It covers information about Users, visitors, clients and other people named in uploaded documents. A Customer's separate privacy notice may also apply to its client files. Read this Policy with the Terms and any signed data processing agreement (DPA).",
+        "style": ""
+      },
+      {
+        "text": "1. Definitions",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ, we, us means Advohq Technologies Pvt. Ltd., #2404, 8th Main Road, 22nd Cross Road, BSK Stage 2, Bengaluru - 560070. Customer means the person, law firm or business that opens or buys a workspace. User means an individual authorised by a Customer to use it; an Administrator is a User who manages access, settings or billing. Services means our websites, applications and subscribed legal or contract workflow features. Personal Data means information about an identifiable individual. Data Principal means the individual to whom personal data relates under India's Digital Personal Data Protection Act, 2023 (DPDP Act). Data Fiduciary means a person who determines the purpose and means of processing digital personal data; Data Processor means a person who processes it on a Data Fiduciary's behalf.",
+        "style": ""
+      },
+      {
+        "text": "Customer Content means files, documents, matter records, prompts, comments, signatures, drafts, outputs and associated information placed in a Customer workspace. Input means material sent to an AI function; Output means the resulting draft, answer, summary or other result. Service Data means account, billing, support, security, device and usage information we process to operate our business. Processor means a provider contracted to handle personal data for a particular purpose. Cookie includes a similar identifier on a browser or device. Applicable Law means law binding on the relevant activity. Terms defined in the DPDP Act have that statutory meaning when the Act applies.",
+        "style": ""
+      },
+      {
+        "text": "2. Who makes the decisions",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ generally decides the purposes of processing Service Data for account creation, billing, support, website operation, security and its own permitted marketing. For those purposes it is ordinarily the Data Fiduciary. A Customer ordinarily decides why a client file or contract is collected, what goes into it, who may use it and how long the official record is needed. For such Customer Content AdvoHQ ordinarily acts as that Customer's Data Processor and follows its instructions, as further specified in a DPA. This is a functional distinction: an independent purpose AdvoHQ actually determines for some information could make it a Data Fiduciary for that purpose. We must disclose and support any such purpose under law rather than call all uploaded data processor data by label alone.",
+        "style": ""
+      },
+      {
+        "text": "If a lawyer or business uploaded a file about you, contact that firm or business first about the file. We will direct a verified request to the responsible Customer or assist it under our agreement and Applicable Law. We will not disclose a client's privileged or another person's confidential file simply because an account holder or outsider asks for it. For AdvoHQ's own account and service processing, use the contact and rights process in clause 12.",
+        "style": ""
+      },
+      {
+        "text": "3. Personal data we handle and where it comes from",
+        "style": "Heading1"
+      },
+      {
+        "text": "Account and profile. Name, business name, professional role, email, phone, account ID, credentials or authentication tokens, settings, language, plan and membership. We receive these from you, an Administrator or a sign-in provider you choose.",
+        "style": ""
+      },
+      {
+        "text": "Billing and commerce. Billing contact, invoice address, tax identifiers supplied by a Customer, plan, amounts, payment status, transaction IDs, refunds and support history. A payment provider normally receives card or payment credentials; AdvoHQ should not claim it never sees such details until the actual integration is checked.",
+        "style": ""
+      },
+      {
+        "text": "Workspace and document content. Uploaded pleadings, evidence, contracts, annexures, notes, matter names, client and counterparty details, signatures, comments and attachments. These can contain contact information, identity numbers, financial, health, employment, criminal allegation or children's information if the Customer submits it. The Customer, Users, invited collaborators, signers and integrations supply this data. We do not require sensitive identifiers merely to open an ordinary account.",
+        "style": ""
+      },
+      {
+        "text": "Derived content. OCR text, indexes, search tokens, embeddings if used, translations, extracted clauses, redlines, summaries, drafts, risk indicators, citations, comparison results, reminders, audit events and signature evidence. These can remain personal data when linked to a person or file. They are generated from Customer Content and feature use.",
+        "style": ""
+      },
+      {
+        "text": "Technical and communications data. IP address, device and browser, operating system, session and cookie IDs, approximate region inferred from IP, login time, feature events, storage use, error reports, support tickets, messages, call notes and security logs. We receive these from devices, Users, administrators, analytics and support tools, and security systems.",
+        "style": ""
+      },
+      {
+        "text": "Public and third-party sources. A research feature may retrieve public court, legislation or other legal sources. We may receive referral, identity, payment, e-signature or integration events from the providers used for a requested transaction. We will identify optional integrations in the product or processor schedule. We do not claim that every public source is accurate or current.",
+        "style": ""
+      },
+      {
+        "text": "4. Why we process it",
+        "style": "Heading1"
+      },
+      {
+        "text": "We use account and technical information to create accounts, verify sign-in, apply permissions, supply plan features, measure entitlements, troubleshoot, protect against abuse, communicate operational changes and answer support requests. We use billing information to charge, invoice, refund, record tax and defend a payment dispute. We use permitted aggregate or de-identified measures to understand reliability and feature demand; if the information can still identify a person, we treat it as Personal Data. We send promotional messages only with the permission or other lawful basis applicable to that message and provide an unsubscribe route.",
+        "style": ""
+      },
+      {
+        "text": "For Customer Content, we carry out the Customer's enabled functions: secure storage and display; search and indexing; OCR and translation; drafting, analysis and research assistance; document comparison; contract approval; calendars and reminders; sharing; signature requests and evidence; export; backup; and requested support. We also process limited material as necessary to secure the Services, investigate misuse, honour legal process or comply with legal obligations. We do not sell Customer Content or use it for targeted advertising. We do not use it to train a general-purpose AI model without the Customer's separate explicit opt-in. This proposed model-training promise must be verified against every provider contract and product setting before publication.",
+        "style": ""
+      },
+      {
+        "text": "Under the DPDP Act, where and when its substantive provisions apply, processing ordinarily requires specific informed consent unless a statutory legitimate use applies. Our account collection and marketing interfaces must present the appropriate itemised notice and choice. A Customer is responsible for determining the basis for its own collection and upload of client or counterparty data; AdvoHQ remains responsible for its own independent processing and its contractual and statutory processor duties. We will not treat acceptance of these Terms as blanket consent to every optional future purpose.",
+        "style": ""
+      },
+      {
+        "text": "5. AI and document processing in practical terms",
+        "style": "Heading1"
+      },
+      {
+        "text": "If a User submits a document for OCR, the file or page is processed to make searchable text. If a User selects translation, analysis, research assistance or generation, the relevant Input and instructions go to the chosen processing stack, which can include a contracted model or cloud provider. We may store the Input, Output, job metadata and intermediate indexes within the workspace to make the result available, maintain history or enable search. The exact provider, processing location, retention period and whether an intermediate result is kept must be stated in [PUBLIC PROCESSOR AND AI FEATURE SCHEDULE] and verified in the product.",
+        "style": ""
+      },
+      {
+        "text": "Proposed controls: an Administrator can restrict who can use AI and who can see its Outputs; optional AI is initiated by a User; providers are contractually barred from general-purpose model training on Customer Content unless the Customer separately opts in. If a provider cannot honour that setting, we must disclose the exception before enabling the feature for confidential documents. A Customer should avoid sending material beyond what the selected function needs and should review Outputs before using them. We will not describe an embedding as anonymous merely because a human cannot read it at a glance.",
+        "style": ""
+      },
+      {
+        "text": "6. Who receives information",
+        "style": "Heading1"
+      },
+      {
+        "text": "People selected by the Customer. Workspace members, invited collaborators, recipients of a share link, approvers, signers and their organisations receive the material and permissions the Customer chooses. An Administrator may see account activity and content within its granted role. A recipient who downloads or receives a document outside AdvoHQ may keep it under its own duties.",
+        "style": ""
+      },
+      {
+        "text": "Our contracted providers. Hosting and storage, backup, AI inference, OCR, translation, search, email and messaging, analytics, support, payment, identity and e-signature providers receive the data needed for their specific function. We require appropriate confidentiality, processing and security commitments and limit access. [PUBLIC PROCESSOR SCHEDULE] must identify material providers or meaningful categories, countries, AI training and retention settings, and how a Customer receives change notices. A provider acting for us is different from an independent payment or signing service acting under its own notice.",
+        "style": ""
+      },
+      {
+        "text": "Our personnel and advisers. Authorised staff and contractors access data when needed for operations, requested support, security and lawful administration; legal, accounting and audit advisers receive limited data under professional or contractual confidentiality. We do not give another AdvoHQ Customer access to a workspace.",
+        "style": ""
+      },
+      {
+        "text": "Authorities and transactions. We disclose information in response to valid legal process or to protect rights and safety where lawful. We assess scope and, where lawful and practicable, inform the Customer before disclosing its content. If AdvoHQ is reorganised or sold, relevant data may pass to a successor subject to continuing protections and required notice. We do not sell Personal Data as a product.",
+        "style": ""
+      },
+      {
+        "text": "7. Locations and transfers",
+        "style": "Heading1"
+      },
+      {
+        "text": "Data can be stored or processed in India and in the locations of enabled providers listed in [HOSTING AND PROCESSOR SCHEDULE]. An India-only commitment exists only if a signed Order says so and the configuration actually supports it. For a cross-border provider we assess contractual protection, confidentiality, relevant professional duties and restrictions notified under the DPDP Act or other Applicable Law. We will update the schedule before a material location change and obtain authorisation where required. This clause must name the actual primary hosting region and significant transfer destinations before publication; an open-ended statement is insufficient for a Customer choosing where to store client files.",
+        "style": ""
+      },
+      {
+        "text": "8. Retention: what happens and when",
+        "style": "Heading1"
+      },
+      {
+        "text": "Active workspace content. Customer Content stays available while the account or agreed retention setting requires it, unless the Customer deletes it or law requires preservation. Deleting a file from the active interface may not erase a version, share recipient's copy, audit record or backup immediately. The Customer must manage its own official file and retention duties.",
+        "style": ""
+      },
+      {
+        "text": "Proposed ordinary termination cycle. The Administrator can export supported content for 30 days after ordinary expiry or cancellation; content is removed from active workspaces within the next 30 days and routine backup copies expire within a further 90 days. A restricted compliance archive can continue to hold personal data and related processing records for the one-year minimum required by the operative DPDP Rules. A justified legal hold, security investigation, dispute, signed DPA or other mandatory record period can extend this. We will restrict retained copies to the preservation purpose and erase them after it ends unless another lawful reason applies. These proposed periods must be tested against actual storage, providers and recovery design before posting.",
+        "style": ""
+      },
+      {
+        "text": "Account and billing. Basic account information persists while the account is active, then only as needed for closure, fraud prevention or legal claims. Invoices, payment and tax records are kept for the period required by applicable tax and accounting law; [INSERT ACTUAL SCHEDULE]. Support tickets are ordinarily proposed for [12 MONTHS AFTER CLOSURE] unless a dispute requires longer. Marketing preferences and opt-out records persist to respect the choice.",
+        "style": ""
+      },
+      {
+        "text": "Logs, signature evidence and legal holds. Security and usage logs are proposed for [INSERT ACTUAL PERIOD], with a longer minimum where law requires. Signature evidence and audit trails follow the Customer's chosen retention, the provider arrangement and legal requirements; [INSERT ACTUAL PERIOD]. Rule 8(3) of the DPDP Rules, when operative, calls for a minimum one-year retention of personal data, associated traffic data and other processing logs for its specified purpose, including processing carried out by a processor; counsel and engineering must map exactly which records are covered and implement a restricted archive. A legal hold ends when the preservation duty ends, after which the ordinary deletion cycle resumes. We will not promise instant deletion from backups or deletion of a copy held by an independent recipient.",
+        "style": ""
+      },
+      {
+        "text": "9. Security and incident handling",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ will maintain reasonable safeguards required by Applicable Law and appropriate to a document service. The planned baseline includes controlled and role-based access, protection of data in transit and at rest, logging and monitoring, backup and recovery measures, patching, personnel confidentiality and processor contracts. Customer should use available access controls and report suspected compromise to team@advohq.in. No online service is risk-free; this does not waive our duties.",
+        "style": ""
+      },
+      {
+        "text": "We investigate a suspected personal-data breach, contain it, preserve necessary evidence and provide notices to affected Customers, people and authorities where required. When the substantive DPDP requirements and Rules commence, the prescribed measures include notices to affected Data Principals without delay and to the Data Protection Board in the specified form and time, including further details within 72 hours where the Rules require. Separate cyber incident directions may apply before then. We will not wait for a Customer's request where law requires us to notify directly.",
+        "style": ""
+      },
+      {
+        "text": "10. Cookies, analytics and messages",
+        "style": "Heading1"
+      },
+      {
+        "text": "Necessary cookies keep Users signed in, secure sessions and remember settings. Optional analytics or advertising technology, if used, must be named by purpose, provider and duration in [COOKIE TABLE] and presented with the choice required by law. We do not infer consent to optional tracking merely from visiting a page. A browser can block cookies, though sign-in or settings may then fail. Product analytics can reveal feature use and should be governed by access and retention controls. Service emails about accounts, billing, incidents and terms are distinct from promotional emails; promotional opt-out does not stop essential service notices.",
+        "style": ""
+      },
+      {
+        "text": "11. Children and sensitive client material",
+        "style": "Heading1"
+      },
+      {
+        "text": "AdvoHQ accounts are for adults and professional organisations. We do not intentionally offer an account to a child under 18. A Customer document may nevertheless contain a child's data or sensitive personal facts. The Customer must have authority to upload and share it and choose suitable permissions; we process it under the applicable instructions and safeguards. If AdvoHQ independently decides to process children's data for its own purpose, it must meet the applicable verifiable parental consent and restrictions when operative. We do not ask for Aadhaar, medical records or criminal allegations merely to create an account; if such information appears in a matter, it receives the same legal and contractual protections that apply to Customer Content, with additional restrictions where law requires.",
+        "style": ""
+      },
+      {
+        "text": "12. Your choices, rights and requests",
+        "style": "Heading1"
+      },
+      {
+        "text": "A User can review or update certain account details and an Administrator can manage workspace membership and permissions. To ask AdvoHQ about its own processing, write to team@advohq.in with the account email, the request and enough information for reasonable identity verification. We will acknowledge receipt, identify whether AdvoHQ or a Customer controls the relevant decision, and respond within the time required by Applicable Law. We will not ask for more identity data than reasonably needed. If the request concerns a Customer's file, we will refer or assist without revealing another person's confidential information.",
+        "style": ""
+      },
+      {
+        "text": "When the relevant DPDP provisions apply, a Data Principal may request the prescribed summary and information about processing, correction, completion, updating or erasure, withdraw consent where that is the basis, use the grievance mechanism and nominate another person to exercise rights after death or incapacity. Rights have statutory conditions; a request cannot require unlawful destruction of evidence, another person's data or an official client file controlled by someone else. Withdrawal should be as easy as giving consent and does not undo processing already lawfully performed. We will tell the requester if a lawful exception or retention duty limits a request.",
+        "style": ""
+      },
+      {
+        "text": "The grievance contact is [NAME/TITLE, EMAIL, POSTAL ADDRESS]. Our published response period will be [INSERT, NO MORE THAN 90 DAYS WHEN THE RELEVANT RULE APPLIES]. After using the required grievance process, a Data Principal may complain to the Data Protection Board when the Act permits. We will place direct links for withdrawal, rights requests and Board complaints in the separate collection notice when required.",
+        "style": ""
+      },
+      {
+        "text": "13. Notice and commencement under Indian law",
+        "style": "Heading1"
+      },
+      {
+        "text": "This long-form Policy does not replace the separate, clear, itemised notice required at collection when the relevant DPDP provisions and Rules come into force. That notice must say which personal data is sought, each specific purpose and service, and how to withdraw consent, exercise rights and complain. A Customer collecting its own clients' data may need its own notice; AdvoHQ's account notice cannot substitute for the Customer's.",
+        "style": ""
+      },
+      {
+        "text": "The DPDP Act and the Digital Personal Data Protection Rules, 2025 have phased commencement. As at this working draft's date, core individual-facing duties and most operational rules are scheduled to commence 18 months after the November 2025 gazette publication, subject to later official changes; some institutional provisions have already commenced and another rule has a one-year start. Earlier applicable Indian privacy, cyber, contract and professional duties continue in the meantime. We will update our notices and procedures as the commencement dates arrive; the effective law at the time of processing governs.",
+        "style": ""
+      },
+      {
+        "text": "14. Changes, contact and responsible officer",
+        "style": "Heading1"
+      },
+      {
+        "text": "We will date revisions and give additional notice or obtain fresh consent for a material new purpose where law requires. We will keep a way to request the prior version relevant to an earlier event. Direct questions, requests and complaints to Advohq Technologies Pvt. Ltd., #2404, 8th Main Road, 22nd Cross Road, BSK Stage 2, Bengaluru - 560070, team@advohq.in. If designated a Significant Data Fiduciary, AdvoHQ will meet the additional statutory requirements, including the required India-based Data Protection Officer. This document does not imply that designation has already occurred.",
+        "style": ""
+      },
+      {
+        "text": "Internal publication checklist — remove before posting",
+        "style": "Heading1"
+      },
+      {
+        "text": "Confirm legal entity, contact and complaint channel; map actual controller/fiduciary and processor roles for every feature. Prepare a separate itemised account and feature collection notice, including consent and withdrawal controls.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Verify document flows, processors and regions, AI zero-training settings, OCR/translation retention, embeddings, support access, recipient sharing, payment data and signature evidence. Publish the processor and cookie schedules.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Confirm and implement each category's retention, export, active deletion, backup expiry, logs, holds and request handling. Align the Terms, DPA and in-product description.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Verify security statements with engineering; test breach escalation and required reporting. Review current DPDP commencement notifications and other applicable Indian law with counsel immediately before launch.",
+        "style": "ListNumber"
+      },
+      {
+        "text": "Drafting references — remove before posting",
+        "style": "Heading1"
+      },
+      {
+        "text": "Original drafting informed by the uploaded Garner and Goldstein/Lieberman books and the current official privacy notices of OpenAI, Google Cloud, Tinder, Hinge and Netflix, checked 9 October 2026. No third-party text is incorporated by reference. See the companion source memo for links and law dates.",
+        "style": ""
+      }
+    ],
+    "sourceVersion": "eb0ba33130bd1372be5b40a104b534dc1a3583fbc31fe67123ce4addba78f243"
+  }
+}

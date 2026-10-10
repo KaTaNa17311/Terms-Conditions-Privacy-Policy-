@@ -1,0 +1,5 @@
+import {notFound} from 'next/navigation';
+import {Logo} from '@/app/ui';
+import policies from '@/lib/policies.json';
+import {company} from '@/lib/company';
+export default async function Legal({params}:{params:Promise<{kind:string}>}){const {kind}=await params;if(kind!=='terms'&&kind!=='privacy')notFound();const doc=policies[kind as keyof typeof policies];const cut=doc.blocks.findIndex(b=>b.text.startsWith('Internal publication checklist'));const blocks=cut>=0?doc.blocks.slice(0,cut):doc.blocks;return <main className="legal-page"><header className="legal-page-header"><Logo/><a href="/" className="button secondary">Back to AdvoHQ</a></header><h1>{doc.title}</h1><p className="draft-notice">Working draft · 9 October 2026 · Operational placeholders remain in this document.</p><article className="legal-content">{blocks.map((b,i)=>b.style==='Title'?null:b.style.startsWith('Heading')?<h3 key={i}>{b.text}</h3>:<p key={i}>{b.text}</p>)}</article><footer className="legal-company"><strong>{company.name}</strong><br/>CIN: {company.cin}<br/>{company.address}</footer></main>}
